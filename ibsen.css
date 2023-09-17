@@ -20,3 +20,24 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:blue;
 }
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 4px;
+}
+th{
+    color: green;
+}
+td{
+    color:brown;
+}
+tr:nth-child(odd) {
+    background-color:bisque;
+  }
+.helmer:hover{
+    text-shadow:4px 4px 5px red;
+}
+.nora:hover{
+    text-shadow:4px 4px 5px blue;
+}
