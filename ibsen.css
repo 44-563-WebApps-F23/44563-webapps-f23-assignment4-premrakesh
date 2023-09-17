@@ -1,0 +1,22 @@
+.speech{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color:black;
+}
+.direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    color: black;
+    background-color: aqua;
+}
+.direction:hover{
+    background-color: antiquewhite;
+}
+.nora{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+.helmer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue;
+}
