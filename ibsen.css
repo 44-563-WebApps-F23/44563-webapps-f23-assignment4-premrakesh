@@ -41,3 +41,27 @@ tr:nth-child(odd) {
 .nora:hover{
     text-shadow:4px 4px 5px blue;
 }
+ul {
+    /* remove these */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul li {
+    float:left; /* line up horizontally */
+    color:green;
+    background-color:greenyellow
+    }
+    ul a {
+    display:block;
+    padding:8px
+    }
+    /* on hover change the link color*/
+    ul a:hover {
+    background-color:black;
+    color:white;
+    }
+    img{
+        position:center;
+    }
+  
